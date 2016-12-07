@@ -1,1 +1,1 @@
-Sublime Text3 package that sequence number plugin for columns region.
+Sublime Text3 package for sequence number plugin with columns region.
